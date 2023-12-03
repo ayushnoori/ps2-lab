@@ -20,6 +20,5 @@ else:
     PROJECT_DIR = Path('/Users/an583/Library/CloudStorage/OneDrive-Personal/Academic/College/Junior Year/Fall Term/PS 2/Lab/Final Project/ps2-lab')
 
 # define project configuration variables
-DATA_DIR = PROJECT_DIR / 'Data'
-RESULTS_DIR = PROJECT_DIR / 'Results'
+RESULTS_DIR = PROJECT_DIR / 'figures'
 SEED = 42
