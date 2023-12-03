@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+scipy
+pip
+rdkit
+tqdm
+jupyter
+jupyterlab
+notebook
+rdkit-pypi
