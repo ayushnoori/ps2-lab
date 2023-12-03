@@ -6,7 +6,7 @@ The blood-brain-barrier (BBB) is a selective semipermeable membrane that separat
 
 Understanding the permeability of molecules to the BBB is therefore of great interest to facilitate the development of new neurotherapeutics. Previous work has attempted to predict BBB permeability (for example, see [ayushnoori/graph-bbb](https://github.com/ayushnoori/graph-bbb) on GitHub), but this work has been limited by lack of molecular diversity and interpretability.
 
-Here, we use techniques studied during the Fall 2023 semester in PHYSCI 2 Lab at Harvard College to study the relationships between several molecular properties and BBB permeability. We leverage a new diverse molecular database of BBB permeability with chemical descriptors, recently published in Nature Scientific Data in 2021:
+Here, we use techniques learned during the Fall 2023 semester in PHYSCI 2 Lab at Harvard College to investigate the relationships between several molecular properties and BBB permeability. We leverage a new diverse molecular database of BBB permeability with chemical descriptors, recently published in Nature Scientific Data in 2021:
 
 Meng, F., Xi, Y., Huang, J. & Ayers, P. W. [A curated diverse molecular database of blood-brain barrier permeability with chemical descriptors.](https://www.nature.com/articles/s41597-021-01069-5) *Sci Data* **8**, 289 (2021).
 
