@@ -12,7 +12,7 @@ Meng, F., Xi, Y., Huang, J. & Ayers, P. W. [A curated diverse molecular database
 
 Please also see [theochem/B3DB](https://github.com/theochem/B3DB) and [Issue #174 of mims-harvard/TDC](https://github.com/mims-harvard/TDC/issues/174) on GitHub. 
 
-After retrieving and pre-processing our data, we measure several molecular features of 1058 compounds as well as numerical logBB values for each compound, where logBB is the logarithm of the brain-plasma concentration ratio:
+After retrieving and pre-processing our data, we calculate several molecular features of 1058 compounds as well as numerical logBB values for each compound, where logBB is the logarithm of the brain-plasma concentration ratio:
 $$\log{BB} = \log{\frac{C_{brain}}{C_{blood}}}$$
 
 Then, we use curve fitting methods learned in Lab 4 and Lab 5 to fit various models to the data. We visualize our data and results and, based on visual inspection, generate hypotheses for relationships between molecular features and logBB. Finally, we use $\chi^2_{red}$-testing to select from multiple competing models of the data and compare the goodness-of-fit of each model.
