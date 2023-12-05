@@ -1,7 +1,9 @@
 # Investigating molecular blood-brain-barrier permeability
 
 **Lab Final Project**
+
 **PHYSCI 2 at Harvard College**
+
 **Ayush Noori, Aditi Raju, Jared Ni**
 
 ## Introduction
